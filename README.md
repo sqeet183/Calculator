@@ -1,2 +1,2 @@
 # Calculator
-simple calculator in pyton
+simple calculator in python
